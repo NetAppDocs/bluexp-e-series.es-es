@@ -2,8 +2,8 @@
 layout: astra 
 sidebar: sidebar 
 permalink: index.html 
-lead: 'Discover your E-Series storage systems through BlueXP (formerly Cloud Manager) to get a complete view of data across your hybrid multicloud.' 
-summary: 'Descubra sus sistemas de almacenamiento E-Series a través de BlueXP (anteriormente Cloud Manager) para obtener una visión completa de los datos en su multicloud híbrido.' 
+lead: Discover your E-Series storage systems through BlueXP to get a complete view of data across your hybrid multicloud. 
+summary: Descubre tus sistemas de almacenamiento E-Series a través de BlueXP para obtener una visión completa de los datos en tu multinube híbrida. 
 ---
 = Documentación de E-Series
 :hardbreaks:
