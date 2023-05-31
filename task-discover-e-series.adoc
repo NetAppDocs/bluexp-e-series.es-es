@@ -18,7 +18,7 @@ BlueXP puede descubrir los sistemas de almacenamiento E-Series en su entorno loc
 .Lo que necesitará
 * Un conector instalado en un proveedor de cloud o en las instalaciones, con conectividad de red al sistema de almacenamiento E-Series.
 +
-https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html["Obtenga más información sobre conectores y cómo crear uno"^]
+https://docs.netapp.com/us-en/bluexp-setup-admin/concept-connectors.html["Obtenga más información sobre conectores y cómo crear uno"^]
 
 * El nombre de dominio o la dirección IP de la controladora del sistema de almacenamiento.
 * Credenciales de administrador para el sistema.
