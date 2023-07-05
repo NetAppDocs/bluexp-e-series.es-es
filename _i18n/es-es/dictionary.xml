@@ -86,7 +86,6 @@
   <block id="d9dd2d956a60f0b34b5143e1e91f8d00" category="list-text">*Hosts*: Detalles sobre los hosts que envían E/S a un volumen del sistema de almacenamiento.</block>
   <block id="ce59d69b0f9457299af782e2cbc63d2c" category="inline-image-macro">Una captura de pantalla de la pestaña hosts en un entorno de trabajo E-Series.</block>
   <block id="7e467104a3cd28d221dc038eaebc41e9" category="paragraph"><block ref="7e467104a3cd28d221dc038eaebc41e9" category="inline-image-macro-rx" type="image"></block></block>
-  <block id="5f93f381aa8df330451fa5b834f54def" category="doc">Documentación de E-Series</block>
   <block id="13a22b88b0e5c69fd504248e73b90c38" category="summary">Descubra las novedades que ofrece la gestión de sistemas E-Series en BlueXP.</block>
   <block id="8d6bb4ca1063ab855a4883d13637c8a9" category="doc">Novedades de la gestión de E-Series</block>
   <block id="f7ba76d5c9beab0576f118a6254843e9" category="section-title">18 de septiembre de 2022</block>
@@ -189,7 +188,6 @@
   <block id="c7f5c1a75acc58c6f004efc0ce1eba09" category="list-text">*Accesorio (opcional)*: Cargue hasta cinco archivos adjuntos, uno a la vez.</block>
   <block id="bfa80e7aaad6da353b431bff3a0e12d6" category="paragraph">Los archivos adjuntos están limitados a 25 MB por archivo. Se admiten las siguientes extensiones de archivo: Txt, log, pdf, jpg/jpeg, rtf, doc/docx, xls/xlsx y csv.</block>
   <block id="8e6b52a532a4fbbfc98dca3ebfa5f1e6" category="list-text">*Actualizar notas de caso*: Proporcione detalles adicionales sobre su problema o seleccione *cargar archivos* para adjuntar hasta un máximo de cinco archivos.</block>
-  <block id="faace6d0089f53d27382ce3bb68c8ec4" category="summary">Descubre tus sistemas de almacenamiento E-Series a través de BlueXP para obtener una visión completa de los datos en tu multinube híbrida.</block>
   <block id="942c9249796cf6b78c981ebf15195809" category="list-text"><block ref="942c9249796cf6b78c981ebf15195809" category="inline-link-rx"></block></block>
   <block id="c95623cd0395d5a6bb6105b9d32f197b" category="inline-link">Aviso para BlueXP</block>
   <block id="52ba8ac12050d2494572b940a0d65b25" category="paragraph"><block ref="52ba8ac12050d2494572b940a0d65b25" category="inline-link-rx"></block></block>
@@ -237,4 +235,6 @@
   <block id="f5135b68b75a8404803a1eb438e40c5e" category="list-text">Actualizar el software Cloud Volumes ONTAP a la versión más reciente</block>
   <block id="39f382b97080640c75604b5890f3a5d3" category="paragraph">La asociación de credenciales de NSS con su cuenta de BlueXP es diferente de la cuenta de NSS asociada con un inicio de sesión de usuario de BlueXP.</block>
   <block id="e3bc6d35311568d55f1c8ea11984b964" category="paragraph">Estas credenciales de NSS están asociadas con tu ID de cuenta de BlueXP específico. Los usuarios que pertenecen a la cuenta BlueXP pueden acceder a estas credenciales desde *Soporte &gt; Gestión NSS*.</block>
+  <block id="7800ad4a099cdd7b6476a7ec4026ccaf" category="summary">Descubre tus sistemas de almacenamiento E-Series de BlueXP para obtener una visión completa de los datos en tu multicloud híbrido.</block>
+  <block id="ae36c6babb0825817280d77792a470d6" category="doc">Gestión de E-Series mediante BlueXP</block>
 </blocks>

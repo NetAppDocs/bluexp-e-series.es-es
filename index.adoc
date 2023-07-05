@@ -2,10 +2,10 @@
 layout: astra 
 sidebar: sidebar 
 permalink: index.html 
-lead: Discover your E-Series storage systems through BlueXP to get a complete view of data across your hybrid multicloud. 
-summary: Descubre tus sistemas de almacenamiento E-Series a través de BlueXP para obtener una visión completa de los datos en tu multinube híbrida. 
+lead: Discover your E-Series storage systems from BlueXP to get a complete view of data across your hybrid multicloud. 
+summary: Descubre tus sistemas de almacenamiento E-Series de BlueXP para obtener una visión completa de los datos en tu multicloud híbrido. 
 ---
-= Documentación de E-Series
+= Gestión de E-Series mediante BlueXP
 :hardbreaks:
 :allow-uri-read: 
 :nofooter: 
