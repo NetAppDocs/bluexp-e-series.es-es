@@ -26,13 +26,13 @@ https://docs.netapp.com/us-en/bluexp-setup-admin/concept-connectors.html["Obteng
 
 .Pasos
 . En el menú de navegación de BlueXP, seleccione *almacenamiento > Canvas*.
-. En Canvas, haga clic en *Agregar entorno de trabajo* y seleccione *en las instalaciones*.
+. En el lienzo, selecciona *Añadir entorno de trabajo* y selecciona *En las instalaciones*.
 . Junto a *E-Series*, seleccione *Discover*.
 . Si se le solicita, cree un conector.
 +
 Consulte el enlace anterior para obtener más información.
 
-. En la página _E-Series Cluster Details_, introduzca el nombre de dominio o la dirección IP del controlador del sistema de almacenamiento, las credenciales de administración del sistema y, a continuación, haga clic en *Add*.
+. En la página _E-Series Cluster Details_, introduzca el nombre de dominio o la dirección IP del controlador del sistema de almacenamiento, las credenciales de administrador del sistema y, a continuación, seleccione *Agregar*.
 +
 image:screenshot-cluster-details.png["Una captura de pantalla que muestra la página Detalles del clúster de E-Series en la que se le pedirá que introduzca el nombre de dominio o la dirección IP, así como el nombre de usuario y la contraseña de administrador."]
 

@@ -16,7 +16,8 @@ summary: Después de detectar los sistemas E-Series, puede ver detalles sobre la
 Después de detectar los sistemas E-Series, puede ver detalles sobre la distribución de la capacidad, los volúmenes y los hosts.
 
 .Pasos
-. En Canvas, haga doble clic en el nombre del entorno de trabajo E-Series que desee ver.
+. En el menú de navegación, selecciona *almacenamiento > Canvas*.
+. En la página Lienzo, seleccione el entorno de trabajo E-Series que desea ver.
 . Seleccione una de las pestañas para ver más detalles sobre su sistema E-Series:
 +
 ** *Descripción general*: Una vista detallada de la distribución de capacidad del sistema (capacidad asignada, libre y sin asignar), el número de volúmenes, hosts, etc.
