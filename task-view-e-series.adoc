@@ -13,6 +13,7 @@ summary: Después de detectar los sistemas E-Series, puede ver detalles sobre la
 :imagesdir: ./media/
 
 
+[role="lead"]
 Después de detectar los sistemas E-Series, puede ver detalles sobre la distribución de la capacidad, los volúmenes y los hosts.
 
 .Pasos

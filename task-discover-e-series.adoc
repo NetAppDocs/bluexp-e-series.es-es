@@ -13,6 +13,7 @@ summary: BlueXP puede descubrir los sistemas de almacenamiento E-Series en su en
 :imagesdir: ./media/
 
 
+[role="lead"]
 BlueXP puede descubrir los sistemas de almacenamiento E-Series en su entorno local. Añadir sistemas E-Series a BlueXP le permite obtener una vista completa de los datos en su multicloud híbrido.
 
 .Lo que necesitará
