@@ -6,10 +6,6 @@
   <block id="f3a29486bed19a90f2da6d007818b427" category="list-title">Pasos</block>
   <block id="9ae507836de7475bf9902e01733fe556" category="inline-image-macro">Captura de pantalla de la opción Quitar del área de trabajo que está disponible en el menú superior derecho del entorno de trabajo.</block>
   <block id="c8e6868d5b00caa06a19765007794f02" category="paragraph"><block ref="c8e6868d5b00caa06a19765007794f02" category="inline-image-macro-rx" type="image"></block></block>
-  <block id="d4ed6879e3a8cf5b19115d43f3a679e8" category="summary">BlueXP puede descubrir los sistemas de almacenamiento E-Series en su entorno local. Añadir sistemas E-Series a BlueXP le permite obtener una vista completa de los datos en su multicloud híbrido.</block>
-  <block id="af7ddc3d1fbf222d777fe67b3cb8679e" category="doc">Descubra los sistemas de almacenamiento E-Series</block>
-  <block id="d59db7846bd10b6d60d21543df9faa9e" category="list-title">Lo que necesitará</block>
-  <block id="91fdeff2704f1bd3f1cac78e4cd8cbb2" category="list-text">Un conector instalado en un proveedor de cloud o en las instalaciones, con conectividad de red al sistema de almacenamiento E-Series.</block>
   <block id="013d29d39e390d6b894eaf54e5b91328" category="inline-link">Obtenga más información sobre conectores y cómo crear uno</block>
   <block id="041fa896c7093cbacc84c8fac7b2628b" category="list-text">El nombre de dominio o la dirección IP de la controladora del sistema de almacenamiento.</block>
   <block id="6ec6d6cf6bc555755f5e7897d3d4192b" category="list-text">Credenciales de administrador para el sistema.</block>
@@ -18,7 +14,6 @@
   <block id="fc1a9fdf2586621f573554f6060df39b" category="inline-image-macro">Una captura de pantalla que muestra la página Detalles del clúster de E-Series en la que se le pedirá que introduzca el nombre de dominio o la dirección IP, así como el nombre de usuario y la contraseña de administrador.</block>
   <block id="d669577f4cc1e2ff5f1a9c461bb5c667" category="paragraph"><block ref="d669577f4cc1e2ff5f1a9c461bb5c667" category="inline-image-macro-rx" type="image"></block></block>
   <block id="8eea62084ca7e541d918e823422bd82e" category="paragraph-title">Resultado</block>
-  <block id="97ac529d5b6e242c35c37449c257f8e3" category="paragraph">BlueXP descubre el sistema de almacenamiento E-Series y lo añade como un entorno de trabajo en el lienzo.</block>
   <block id="fbdeb641ca6dc35f45827fbd969c85d8" category="inline-image-macro">Captura de pantalla que muestra un entorno de trabajo E-Series en el lienzo BlueXP.</block>
   <block id="bdc34480642b100bfbc502e65d086a46" category="paragraph"><block ref="bdc34480642b100bfbc502e65d086a46" category="inline-image-macro-rx" type="image"></block></block>
   <block id="c9df4195a305212ffd7b56d24f67129d" category="summary">NetApp ofrece soporte para BlueXP de diversas maneras. Hay disponibles amplias opciones de auto soporte gratuito las 24 horas del día, los 7 días de la semana, como artículos de la base de conocimiento (KB) y un foro de la comunidad. Su registro de soporte incluye soporte técnico remoto a través de tickets web.</block>
@@ -77,7 +72,6 @@
   <block id="8d6bb4ca1063ab855a4883d13637c8a9" category="doc">Novedades de la gestión de E-Series</block>
   <block id="f7ba76d5c9beab0576f118a6254843e9" category="section-title">18 de septiembre de 2022</block>
   <block id="532b36a42fa02f3df85b0e70d519a9ac" category="section-title">Compatibilidad con E-Series</block>
-  <block id="534171d3771a50398027a07275778b3e" category="paragraph">Ahora puede descubrir sus sistemas de almacenamiento E-Series directamente desde BlueXP. El descubrimiento de sistemas E-Series le ofrece una visión completa de los datos en su multicloud híbrido.</block>
   <block id="243263104c829e77835d632f591230d5" category="summary">Antes de poder abrir un caso de soporte con el soporte técnico de NetApp, debe añadir una cuenta de la página de soporte de NetApp a BlueXP y, a continuación, registrarse para recibir soporte.</block>
   <block id="42748df9eaa0be17ddc5cc1593cf57ab" category="doc">Regístrese para recibir soporte</block>
   <block id="18cf072964a583150dd247485ba75b92" category="inline-link-macro">Amazon FSX para ONTAP</block>
@@ -120,9 +114,6 @@
   <block id="421eeeca306bdf1873654f04f6d8e61e" category="sidebar">Documentos de E-Series</block>
   <block id="7d0ee6fed10d3d4e5c9ee496729ab519" category="sidebar">Notas de la versión</block>
   <block id="be11c74c1dd7f307bb80183a90dc2067" category="sidebar">Manos a la obra</block>
-  <block id="b49ef2f39f76037d3bb319371ca7e71b" category="sidebar">Descubra sus sistemas E-Series</block>
-  <block id="f49d844c86ae1dac27d16322e43bcd51" category="sidebar">Gestione clústeres E-Series</block>
-  <block id="39b5010536b500446f47a3e09e43ff03" category="sidebar">Elimine E-Series</block>
   <block id="0adc03eac86772ad2c75c8f140be417e" category="sidebar">Conocimiento y apoyo</block>
   <block id="b9196557da9e22849478c157e8570f9d" category="sidebar">Gestione los sistemas E-Series</block>
   <block id="f6bd0d7447ff66cc6b859603a88fbde9" category="sidebar">Enlaces relacionados</block>
@@ -206,7 +197,6 @@
   <block id="f5135b68b75a8404803a1eb438e40c5e" category="list-text">Actualizar el software Cloud Volumes ONTAP a la versión más reciente</block>
   <block id="39f382b97080640c75604b5890f3a5d3" category="paragraph">La asociación de credenciales de NSS con su cuenta de BlueXP es diferente de la cuenta de NSS asociada con un inicio de sesión de usuario de BlueXP.</block>
   <block id="e3bc6d35311568d55f1c8ea11984b964" category="paragraph">Estas credenciales de NSS están asociadas con tu ID de cuenta de BlueXP específico. Los usuarios que pertenecen a la cuenta BlueXP pueden acceder a estas credenciales desde *Soporte &gt; Gestión NSS*.</block>
-  <block id="7800ad4a099cdd7b6476a7ec4026ccaf" category="summary">Descubre tus sistemas de almacenamiento E-Series de BlueXP para obtener una visión completa de los datos en tu multicloud híbrido.</block>
   <block id="ae36c6babb0825817280d77792a470d6" category="doc">Gestión de E-Series mediante BlueXP</block>
   <block id="0307a12e5749f8dd930472ee78f69d2c" category="list-text">En la parte superior derecha de la consola de BlueXP, seleccione el icono Configuración y seleccione *credenciales*.</block>
   <block id="f19ab635e6d5f884a22ee4ce067fdbfd" category="list-text">Seleccione *Credenciales de usuario*.</block>
@@ -243,4 +233,14 @@
   <block id="522cbb900314aeb84eb5a961c5f94672" category="section-title">Obtenga soporte para un servicio de archivos de proveedores de cloud</block>
   <block id="f6185bb12f5e53c800be8cda7fbca65b" category="paragraph">Para obtener soporte técnico relacionado con un servicio de archivos del proveedor de cloud, su infraestructura o cualquier solución que utilice el servicio, consulte «Obtener ayuda» en la documentación de BlueXP para ese producto.</block>
   <block id="3880ae5df9fdc4d0fc4a6d00a2239530" category="paragraph">Para recibir soporte técnico específico sobre BlueXP y sus soluciones y servicios de almacenamiento, use las opciones de soporte descritas a continuación.</block>
+  <block id="8060a341461a61edc489285d4c464062" category="paragraph">Ahora puedes detectar tus sistemas E-Series directamente en BlueXP. El descubrimiento de sistemas E-Series le ofrece una visión completa de los datos en su multicloud híbrido.</block>
+  <block id="f40a769a21757b9da9a38326ec0f8eab" category="summary">BlueXP puede detectar los sistemas E-Series en tu entorno on-premises. Añadir sistemas E-Series a BlueXP le permite obtener una vista completa de los datos en su multicloud híbrido.</block>
+  <block id="e4a9dd1c7d750241fad0d52a3bc7903b" category="doc">Descubra los sistemas E-Series</block>
+  <block id="135b308ed83c53f1516b7c754566d1c4" category="paragraph-title">Antes de empezar</block>
+  <block id="4c6a9048ac276eb9391ebe2abd8e0c0d" category="paragraph">Necesita lo siguiente:</block>
+  <block id="7a2e07efa753c5841b0eb9a77ffb429c" category="list-text">Un conector instalado en un proveedor de cloud o en sus instalaciones, con conectividad de red al sistema E-Series.</block>
+  <block id="0d633329985a4652f38d8a0b1f9a4abb" category="paragraph">BlueXP detecta el sistema E-Series y lo añade como entorno de trabajo en Canvas.</block>
+  <block id="cea1408523bd8c77b6b94d0942d24732" category="summary">Descubre tus sistemas E-Series de BlueXP para obtener una visión completa de los datos en tu multicloud híbrido.</block>
+  <block id="33871b6190a8d5adbe8b15282054766c" category="sidebar">Novedades</block>
+  <block id="a9e825fa00a6490b83a7ab53e320af9a" category="sidebar">Eliminar un entorno de trabajo</block>
 </blocks>

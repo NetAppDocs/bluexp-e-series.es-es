@@ -24,4 +24,4 @@ Descubra las novedades que ofrece la gestión de sistemas E-Series en BlueXP.
 
 === Compatibilidad con E-Series
 
-Ahora puede descubrir sus sistemas de almacenamiento E-Series directamente desde BlueXP. El descubrimiento de sistemas E-Series le ofrece una visión completa de los datos en su multicloud híbrido.
+Ahora puedes detectar tus sistemas E-Series directamente en BlueXP. El descubrimiento de sistemas E-Series le ofrece una visión completa de los datos en su multicloud híbrido.
