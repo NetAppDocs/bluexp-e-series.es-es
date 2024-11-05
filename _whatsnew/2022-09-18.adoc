@@ -1,0 +1,9 @@
+= Compatibilidad con E-Series
+:allow-uri-read: 
+
+
+
+
+=== Compatibilidad con E-Series
+
+Ahora puedes detectar tus sistemas E-Series directamente en BlueXP. El descubrimiento de sistemas E-Series le ofrece una visión completa de los datos en su multicloud híbrido.
